@@ -179,7 +179,7 @@ board = [
 ]
 
 
-play_othello(StrongCatAI())  
+# play_othello(StrongCatAI())  
 
 
 
