@@ -179,15 +179,12 @@ board = [
 ]
 
 
-play_othello(StrongCatAI())  
+# play_othello(StrongCatAI())  
 
 
 
 
 
 
-!rm -rf arupanda # データを消す
-!git clone https://github.com/airpurin/Be_good_Zoushigaya
-from Be_good_Zoushigaya.ai import StrongCatAI  # 自分のAIをインポートする
-print(StrongCatAI().face())
+
 
