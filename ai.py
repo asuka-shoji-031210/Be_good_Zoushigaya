@@ -1,4 +1,4 @@
-!pip install -U kogi-canvas
+
 
 
 import random
@@ -179,7 +179,7 @@ board = [
 ]
 
 
-# play_othello(StrongCatAI())  
+play_othello(StrongCatAI())  
 
 
 
